@@ -1,6 +1,6 @@
 # Customer Segmentation - RFM Analysis
 
-![Project Screenshot](1.png)
+![Project Screenshot](https://github.com/snehez/RFM-Customer-Segmentation/blob/main/Screenshot1.png))
 
 
 ## 👩‍💻 Author
